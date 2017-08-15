@@ -7,11 +7,32 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <title></title>
 </head>
 <body>
     <div>
-            Seems to me works fine!
+           <input id="data" type="text" value="" placeholder="example:" title=""> = <label id="result"></label>
+           <br>
+           <button id="btnCalculate">Calculate</button>
     </div>
+
+    <script>
+        $(function () {
+            var WAVN = {
+                calculate: function () {
+                    var value = $('#data').val();
+                  //  $.post("/Home/Calculate", { date: value }, function (response) { $('#result').text(response.Result); }, "application/json");
+
+                    $.post("/Home/Calculate", { text: value }, function (response) {
+                        console.log('catched....');
+                        $('#result').text(response.Result);
+                    });
+                }
+            }
+
+            $("#btnCalculate").on('click', WAVN.calculate)
+        });
+    </script>
 </body>
 </html>

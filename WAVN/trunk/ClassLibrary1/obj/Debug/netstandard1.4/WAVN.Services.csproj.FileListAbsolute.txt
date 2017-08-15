@@ -1,0 +1,7 @@
+C:\Projects\Own\WAVN\trunk\ClassLibrary1\bin\Debug\netstandard1.4\WAVN.Services.deps.json
+C:\Projects\Own\WAVN\trunk\ClassLibrary1\bin\Debug\netstandard1.4\WAVN.Services.dll
+C:\Projects\Own\WAVN\trunk\ClassLibrary1\bin\Debug\netstandard1.4\WAVN.Services.pdb
+C:\Projects\Own\WAVN\trunk\ClassLibrary1\obj\Debug\netstandard1.4\WAVN.Services.csprojResolveAssemblyReference.cache
+C:\Projects\Own\WAVN\trunk\ClassLibrary1\obj\Debug\netstandard1.4\WAVN.Services.AssemblyInfo.cs
+C:\Projects\Own\WAVN\trunk\ClassLibrary1\obj\Debug\netstandard1.4\WAVN.Services.dll
+C:\Projects\Own\WAVN\trunk\ClassLibrary1\obj\Debug\netstandard1.4\WAVN.Services.pdb

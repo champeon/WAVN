@@ -1,0 +1,7 @@
+C:\Projects\Own\WAVN\CalculateService\bin\Debug\netcoreapp1.1\WAVN.Services.deps.json
+C:\Projects\Own\WAVN\CalculateService\bin\Debug\netcoreapp1.1\WAVN.Services.dll
+C:\Projects\Own\WAVN\CalculateService\bin\Debug\netcoreapp1.1\WAVN.Services.pdb
+C:\Projects\Own\WAVN\CalculateService\obj\Debug\netcoreapp1.1\WAVN.Services.csprojResolveAssemblyReference.cache
+C:\Projects\Own\WAVN\CalculateService\obj\Debug\netcoreapp1.1\WAVN.Services.AssemblyInfo.cs
+C:\Projects\Own\WAVN\CalculateService\obj\Debug\netcoreapp1.1\WAVN.Services.dll
+C:\Projects\Own\WAVN\CalculateService\obj\Debug\netcoreapp1.1\WAVN.Services.pdb

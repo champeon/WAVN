@@ -1,0 +1,12 @@
+C:\Projects\Own\WAVN\WAVN.Services.Tests\bin\Debug\netcoreapp1.1\WAVN.Services.Tests.deps.json
+C:\Projects\Own\WAVN\WAVN.Services.Tests\bin\Debug\netcoreapp1.1\WAVN.Services.Tests.dll
+C:\Projects\Own\WAVN\WAVN.Services.Tests\obj\Debug\netcoreapp1.1\WAVN.Services.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\Own\WAVN\WAVN.Services.Tests\obj\Debug\netcoreapp1.1\WAVN.Services.Tests.AssemblyInfo.cs
+C:\Projects\Own\WAVN\WAVN.Services.Tests\bin\Debug\netcoreapp1.1\NUnit3.TestAdapter.dll
+C:\Projects\Own\WAVN\WAVN.Services.Tests\bin\Debug\netcoreapp1.1\nunit.engine.netstandard.dll
+C:\Projects\Own\WAVN\WAVN.Services.Tests\bin\Debug\netcoreapp1.1\Mono.Cecil.dll
+C:\Projects\Own\WAVN\WAVN.Services.Tests\bin\Debug\netcoreapp1.1\WAVN.Services.Tests.pdb
+C:\Projects\Own\WAVN\WAVN.Services.Tests\bin\Debug\netcoreapp1.1\WAVN.Services.dll
+C:\Projects\Own\WAVN\WAVN.Services.Tests\bin\Debug\netcoreapp1.1\WAVN.Services.pdb
+C:\Projects\Own\WAVN\WAVN.Services.Tests\obj\Debug\netcoreapp1.1\WAVN.Services.Tests.dll
+C:\Projects\Own\WAVN\WAVN.Services.Tests\obj\Debug\netcoreapp1.1\WAVN.Services.Tests.pdb
