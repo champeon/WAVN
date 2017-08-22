@@ -11,7 +11,6 @@ namespace WAVN.Web
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             IoCConfig.RegisterDependencies();
-
         }
     }
 }

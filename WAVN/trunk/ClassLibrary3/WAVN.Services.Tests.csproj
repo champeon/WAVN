@@ -8,8 +8,8 @@
     <ProjectGuid>{E14E923C-9C86-4236-B298-365E5624320A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ClassLibrary3</RootNamespace>
-    <AssemblyName>ClassLibrary3</AssemblyName>
+    <RootNamespace>WAVN.Services.Tests</RootNamespace>
+    <AssemblyName>WAVN.Services.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <NuGetPackageImportStamp>

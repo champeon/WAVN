@@ -1,5 +1,5 @@
-C:\Projects\Own\WAVN\trunk\ClassLibrary2\bin\Debug\ClassLibrary2.dll
-C:\Projects\Own\WAVN\trunk\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
-C:\Projects\Own\WAVN\trunk\ClassLibrary2\obj\Debug\WAVN.Services.csprojResolveAssemblyReference.cache
-C:\Projects\Own\WAVN\trunk\ClassLibrary2\obj\Debug\ClassLibrary2.dll
-C:\Projects\Own\WAVN\trunk\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Projects\Own\WAVN\trunk\ClassLibrary2\obj\Debug\WAVN.Services.csproj.CoreCompileInputs.cache
+C:\Projects\Own\WAVN\trunk\ClassLibrary2\bin\Debug\WAVN.Services.dll
+C:\Projects\Own\WAVN\trunk\ClassLibrary2\bin\Debug\WAVN.Services.pdb
+C:\Projects\Own\WAVN\trunk\ClassLibrary2\obj\Debug\WAVN.Services.dll
+C:\Projects\Own\WAVN\trunk\ClassLibrary2\obj\Debug\WAVN.Services.pdb
