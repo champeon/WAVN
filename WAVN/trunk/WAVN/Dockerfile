@@ -1,4 +1,4 @@
 FROM microsoft/aspnet
-ARG source
+ARG source=.
 WORKDIR /inetpub/wwwroot
-COPY ${source:-obj/Docker/publish} .
+COPY ${source} .
