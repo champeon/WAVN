@@ -1,4 +1,5 @@
-﻿using System.Web.Mvc;
+﻿using Microsoft.AspNet.SignalR;
+using System.Web.Mvc;
 using System.Web.Routing;
 using WAVN.App_Start;
 
@@ -9,6 +10,7 @@ namespace WAVN.Web
         protected void Application_Start()
         {
             AreaRegistration.RegisterAllAreas();
+
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             IoCConfig.RegisterDependencies();
         }

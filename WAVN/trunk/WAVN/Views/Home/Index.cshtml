@@ -8,13 +8,20 @@
 <head>
     <meta name="viewport" content="width=device-width" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="~/Scripts/jquery.signalR-2.2.2.js"></script>
+    <script type="text/javascript" src="signalR/hubs"></script>
     <title></title>
 </head>
 <body>
     <div>
-           <input id="data" type="text" value="" placeholder="example:" title=""> = <label id="result"></label>
-           <br>
-           <button id="btnCalculate">Calculate</button>
+        <input id="data" type="text" value="" placeholder="example:" title=""> = <label id="result"></label>
+        <br>
+        <button id="btnCalculate">Calculate</button>
+        <br>
+        <button id="buttonSubmit">Submit</button>
+        <div>
+            <label id="messages"></label>
+        </div>
     </div>
 
     <script>
@@ -22,16 +29,36 @@
             var WAVN = {
                 calculate: function () {
                     var value = $('#data').val();
-                  //  $.post("/Home/Calculate", { date: value }, function (response) { $('#result').text(response.Result); }, "application/json");
-
                     $.post("/Home/Calculate", { text: value }, function (response) {
                         console.log('catched....');
                         $('#result').text(response.Result);
                     });
+
                 }
             }
 
-            $("#btnCalculate").on('click', WAVN.calculate)
+            $("#btnCalculate").on('click', WAVN.calculate);
+
+            var chat = $.connection.chatHub;
+
+            console.log("$.connection", $.connection());
+            console.log("chat", chat);
+
+            $.connection.hub.logging = true;
+
+            chat.client.newMessage = function (msg) {
+                $("#messages").append("<li>" + msg + "</li>");
+            }
+
+
+            $.connection.hub.start()
+                .done(function () {
+                    $("#buttonSubmit").click(function () {
+                        chat.server.broadcastMessage($("#data").val());
+                    });
+                });
+
+            $.connection.hub.start();
         });
     </script>
 </body>

@@ -1,5 +1,12 @@
-C:\Projects\Own\WAVN\trunk\ClassLibrary2\obj\Debug\WAVN.Services.csproj.CoreCompileInputs.cache
 C:\Projects\Own\WAVN\trunk\ClassLibrary2\bin\Debug\WAVN.Services.dll
 C:\Projects\Own\WAVN\trunk\ClassLibrary2\bin\Debug\WAVN.Services.pdb
+C:\Projects\Own\WAVN\trunk\ClassLibrary2\bin\Debug\Autofac.dll
+C:\Projects\Own\WAVN\trunk\ClassLibrary2\bin\Debug\Bootstrapper.dll
+C:\Projects\Own\WAVN\trunk\ClassLibrary2\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Projects\Own\WAVN\trunk\ClassLibrary2\bin\Debug\Autofac.xml
+C:\Projects\Own\WAVN\trunk\ClassLibrary2\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Projects\Own\WAVN\trunk\ClassLibrary2\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Projects\Own\WAVN\trunk\ClassLibrary2\obj\Debug\WAVN.Services.csproj.CoreCompileInputs.cache
 C:\Projects\Own\WAVN\trunk\ClassLibrary2\obj\Debug\WAVN.Services.dll
 C:\Projects\Own\WAVN\trunk\ClassLibrary2\obj\Debug\WAVN.Services.pdb
+C:\Projects\Own\WAVN\trunk\ClassLibrary2\obj\Debug\WAVN.Services.csprojResolveAssemblyReference.cache
